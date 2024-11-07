@@ -93,11 +93,11 @@ The rectangular blocks rappresent the actions while the rhombuses rappresent the
 
 The following flowchart summarizes the key points of the nodeAclient.
 
-![Flowchart Node A Client](/my_assignment/Images/flowchart.png "Flowchart Node A Client")
+![Flowchart Node A Client](/Images/flowchart.png "Flowchart Node A Client")
 
 The following flowchart summarizes the key points of the nodeApublisher.
 
-![Flowchart Node A Publisher](/my_assignment/Images/flowchartPub.png "Flowchart Node A Publisher")
+![Flowchart Node A Publisher](/Images/flowchartPub.png "Flowchart Node A Publisher")
 
 Possible improvements
 ---------------------
